@@ -9,4 +9,4 @@ Post-Deployment Script Template
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
-insCliente 4,'Cibeles','Melgarejo','2013-10-21'
+--insCliente 4,'Cibeles','Melgarejo','2013-10-21'
