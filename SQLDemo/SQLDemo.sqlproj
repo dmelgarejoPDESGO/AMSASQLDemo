@@ -60,5 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Clientes.sql" />
+    <Build Include="insCliente.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Script.PostDeploymentClientes.sql" />
   </ItemGroup>
 </Project>
