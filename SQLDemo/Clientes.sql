@@ -4,5 +4,6 @@
     [Nombre] VARCHAR(50) NULL, 
     [Apellido] VARCHAR(50) NULL, 
     [FechaNacimiento] DATE NULL, 
-    [Documento] VARCHAR(50) NULL
+    [Documento] VARCHAR(50) NULL, 
+    [Observaciones] VARCHAR(50) NULL
 )
